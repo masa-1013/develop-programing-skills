@@ -1,1 +1,2 @@
-# develop-programing-skills
+# 内容
+世界で闘うプログラミング力を鍛える本 の問題を解く
